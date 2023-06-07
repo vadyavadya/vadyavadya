@@ -36,17 +36,22 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :toolbox: Portfolio
 
-Site layout using html, scss, js.
+Site layout using html, scss, js. Implemented adaptive and cross-browser layout.
 
-<div>
-<a href="https://vadyavadya.github.io/web_stady/fitness-traiiner/dist/home.html">
+<div align>
+<a href="https://vadyavadya.github.io/web_stady/fitness-traiiner/dist/home.html" target="_blank">
   <img src="https://vadyavadya.github.io/hiring-posts/static/media/fitness.08997e38525eb46b924b.png" title="Fitness trainer" alt="Fitness trainer" width="160"/>&nbsp;
 </a>
+<a href="https://vadyavadya.github.io/web_stady/flsStartTemplate_gerich/dist/home.html" target="_blank">
   <img src="https://vadyavadya.github.io/hiring-posts/static/media/gerich.6c75888bfd0e031e5961.png" title="restaurant Gerich" alt="restaurant Gerich " width="160" />&nbsp;
-
+</a>
+<a href="https://vadyavadya.github.io/christmas-trees" target="_blank">
+  <img src="https://vadyavadya.github.io/hiring-posts/static/media/chritmas-tree.84327abc4696dd65bc12.png" title="Christmas Tree" alt="Christmas Tree" width="160" />&nbsp;
+</a>
+<a href="https://vadyavadya.github.io/chik-chik" target="_blank" rel="noreferrer">
+  <img src="https://vadyavadya.github.io/hiring-posts/static/media/chik-chik.8d0f9e0ee32f334488ff.png" title="chik-chik" alt="картинка сайта chik-chik"  width="160"/>&nbsp;
+</a>
 </div>
-
-
 
 <!--
 **vadyavadya/vadyavadya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
