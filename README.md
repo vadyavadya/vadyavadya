@@ -32,6 +32,16 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :toolbox: Portfolio
+
+
+<div>
+  <img src="https://vadyavadya.github.io/hiring-posts/static/media/fitness.08997e38525eb46b924b.png" title="FitnessTriner" alt="FitnessTriner" width="160" height="90"/>&nbsp;
+  <img src="https://vadyavadya.github.io/hiring-posts/static/media/gerich.6c75888bfd0e031e5961.png" title="Gerich" alt="resstoran Gerich " width="160" height="90"/>&nbsp;
+</div>
+
 <!--
 **vadyavadya/vadyavadya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
