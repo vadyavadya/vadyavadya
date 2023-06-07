@@ -36,11 +36,17 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :toolbox: Portfolio
 
+Site layout using html, scss, js.
 
 <div>
-  <img src="https://vadyavadya.github.io/hiring-posts/static/media/fitness.08997e38525eb46b924b.png" title="FitnessTriner" alt="FitnessTriner" width="160" height="90"/>&nbsp;
-  <img src="https://vadyavadya.github.io/hiring-posts/static/media/gerich.6c75888bfd0e031e5961.png" title="Gerich" alt="resstoran Gerich " width="160" height="90"/>&nbsp;
+<a href="https://vadyavadya.github.io/web_stady/fitness-traiiner/dist/home.html">
+  <img src="https://vadyavadya.github.io/hiring-posts/static/media/fitness.08997e38525eb46b924b.png" title="Fitness trainer" alt="Fitness trainer" width="160"/>&nbsp;
+</a>
+  <img src="https://vadyavadya.github.io/hiring-posts/static/media/gerich.6c75888bfd0e031e5961.png" title="restaurant Gerich" alt="restaurant Gerich " width="160" />&nbsp;
+
 </div>
+
+
 
 <!--
 **vadyavadya/vadyavadya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
