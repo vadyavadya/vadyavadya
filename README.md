@@ -53,6 +53,8 @@ Site layout using html, scss, js. Implemented adaptive and cross-browser layout.
 </a>
 </div>
 
+:newspaper: [Work](https://github.com/vadyavadya/hiring-posts) use react, redux, react-route, axios, react-bootstrap.
+
 <!--
 **vadyavadya/vadyavadya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
