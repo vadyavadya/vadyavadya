@@ -51,6 +51,9 @@ Site layout using html, scss, js. Implemented adaptive and cross-browser layout.
 <a href="https://vadyavadya.github.io/chik-chik" target="_blank" rel="noreferrer">
   <img src="https://vadyavadya.github.io/hiring-posts/static/media/chik-chik.8d0f9e0ee32f334488ff.png" title="chik-chik" alt="картинка сайта chik-chik"  width="160"/>&nbsp;
 </a>
+  <a href="https://delivery-burger-react.vercel.app/" target="_blank" rel="noreferrer">
+  <img src="https://vadyavadya.github.io/hiring-posts/static/media/burger_delyvery.72312369d8ce4a8a5e47.jpg" title="Burger delivery" alt="картинка сайта burger delivery"  width="160"/>&nbsp;
+</a>
 </div>
 
 :newspaper: [Work](https://github.com/vadyavadya/hiring-posts) use react, redux, react-route, axios, react-bootstrap.
